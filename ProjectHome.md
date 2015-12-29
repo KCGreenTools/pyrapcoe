@@ -1,0 +1,1 @@
+Code to calculate baseline carbon offset, project carbon offsets, leakage, and net carbon offsets for afforestation projects based on NRI land use and FORCARB 1605b tables.
